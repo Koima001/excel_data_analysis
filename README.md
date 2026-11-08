@@ -1,7 +1,6 @@
 # general_data_analysis
 
 Data analysis portfolio using SQL, Excel, R, and Power BI to uncover insights, improve business performance, and support data-driven decisions across industries.
-Here is a shorter, cleaner version that retains the key skills and project highlights without overwhelming your GitHub portfolio.
 
 # Excel Data Analysis Projects
 
@@ -27,14 +26,14 @@ The projects cover two business areas:
 
 * Cleaned and standardized raw datasets.
 * Removed duplicate records and standardized data formats.
-* Created calculated columns for order values, delivery status, and transportation costs.
-* Developed an interactive dashboard to analyze material distribution, transportation costs, and delivery performance.
+* Created calculated columns for order values, delivery status and transportation costs.
+* Developed an interactive dashboard to analyze material distribution, transportation costs and delivery performance.
 
 ### 2. Manufacturing Production Operations
 
 * Cleaned and transformed production datasets.
 * Created calculated columns for production costs, accepted units, and operational performance.
-* Developed an interactive dashboard to monitor production output, production costs, quality, and plant performance.
+* Developed an interactive dashboard to monitor production output, production costs, quality and plant performance.
 
 ## Tools & Skills
 
@@ -49,6 +48,5 @@ The projects cover two business areas:
 
 ## Project Objective
 
-To demonstrate the application of Excel in transforming raw business data into meaningful insights that support operational monitoring, performance evaluation, and data-driven decision-making across different industries.
+To demonstrate the application of Excel in transforming raw business data into meaningful insights that support operational monitoring, performance evaluation and data-driven decision-making across different industries.
 
-This version is better suited to a portfolio repository because it is concise, professional, and communicates your practical skills quickly.
